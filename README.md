@@ -14,4 +14,8 @@ pip install icalendar
 将`datum`与`class_table.py`放置在同一目录下，运行`class_table.py`脚本，将会生成`output.ics`文件
 
 第三步：
-将`output.ics`文件发送到iPhone，用日历软件打开该文件，即可自动解析导入。
+将`output.ics`文件发送到iPhone，用日历软件打开该文件，即可自动解析导入.
+
+For Mac: https://support.apple.com/zh-cn/guide/calendar/icl1023/mac
+For iPhone&iPad: 用 Fantastical 日历APP软件打开，苹果自带日历会自动进行同步。
+
