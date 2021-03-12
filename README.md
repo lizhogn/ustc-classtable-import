@@ -17,5 +17,6 @@ pip install icalendar
 将`output.ics`文件发送到iPhone，用日历软件打开该文件，即可自动解析导入.
 
 For Mac: https://support.apple.com/zh-cn/guide/calendar/icl1023/mac
+
 For iPhone&iPad: 用 Fantastical 日历APP软件打开，苹果自带日历会自动进行同步。
 
